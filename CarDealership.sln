@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarDealership.DataAccess", "CarDealership.DataAccess\CarDealership.DataAccess.csproj", "{8EC657FD-AD0F-4562-A3D9-4DD8D2AC518A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarDealership.ConsoleTests", "CarDealership.ConsoleTests\CarDealership.ConsoleTests.csproj", "{65F1E01D-893A-4806-923B-50887044EA93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarDealership.UI.WPF", "CarDealership.UI.WPF\CarDealership.UI.WPF.csproj", "{F61838C5-F4C4-4F7E-A1AB-CAD9BC1206B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarDealership.Core", "CarDealership.Core\CarDealership.Core.csproj", "{419BCF23-8BCB-467A-A3DE-1C2274599CAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EC657FD-AD0F-4562-A3D9-4DD8D2AC518A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EC657FD-AD0F-4562-A3D9-4DD8D2AC518A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EC657FD-AD0F-4562-A3D9-4DD8D2AC518A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EC657FD-AD0F-4562-A3D9-4DD8D2AC518A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65F1E01D-893A-4806-923B-50887044EA93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65F1E01D-893A-4806-923B-50887044EA93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65F1E01D-893A-4806-923B-50887044EA93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65F1E01D-893A-4806-923B-50887044EA93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F61838C5-F4C4-4F7E-A1AB-CAD9BC1206B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F61838C5-F4C4-4F7E-A1AB-CAD9BC1206B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F61838C5-F4C4-4F7E-A1AB-CAD9BC1206B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F61838C5-F4C4-4F7E-A1AB-CAD9BC1206B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{419BCF23-8BCB-467A-A3DE-1C2274599CAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{419BCF23-8BCB-467A-A3DE-1C2274599CAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{419BCF23-8BCB-467A-A3DE-1C2274599CAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{419BCF23-8BCB-467A-A3DE-1C2274599CAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
